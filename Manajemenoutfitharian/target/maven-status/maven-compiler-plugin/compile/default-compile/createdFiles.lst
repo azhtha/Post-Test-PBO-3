@@ -1,6 +1,0 @@
-model\CasualOutfit.class
-com\mycompany\manajemenoutfitharian\Manajemenoutfitharian.class
-model\FormalOutfit.class
-main\ManajemenOutfit.class
-model\Outfit.class
-service\OutfitService.class
